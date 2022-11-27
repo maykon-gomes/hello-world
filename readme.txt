@@ -9,3 +9,6 @@ git status
 git add	<nome.arquivo>	//preparar para ser commitado
 git add . 	//todos os arquivos modificados
 git diff 	//Mostrar diferenças do último commit
+
+git remote add origin <url-github> // add repo. remoto
+
